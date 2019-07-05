@@ -1,3 +1,12 @@
+[![Travis][build-badge]][build]
+[![Coveralls][coveralls-badge]][coveralls]
+
+[build-badge]: https://img.shields.io/travis/<Ваше имя на гите>/<Имя вашего проекта>/master.png?style=flat-square
+[build]: https://travis-ci.org/<Ваше имя на гите>/<Имя вашего проекта>
+
+[coveralls-badge]: https://img.shields.io/coveralls/<Ваше имя на гите>/<Имя вашего проекта>/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/<Ваше имя на гитхабе>/<Имя вашего проекта>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
