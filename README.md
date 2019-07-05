@@ -4,8 +4,8 @@
 [build-badge]: https://img.shields.io/travis/Overkloker/chameleon/master.png?style=flat-square
 [build]: https://travis-ci.org/Overkloker/chameleon.svg?branch=master
 
-[coveralls-badge]: https://img.shields.io/coveralls/<Ваше имя на гите>/<Имя вашего проекта>/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/<Ваше имя на гитхабе>/<Имя вашего проекта>
+[coveralls-badge]: https://img.shields.io/coveralls/Overkloker/chameleon/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/Overkloker/chameleon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
