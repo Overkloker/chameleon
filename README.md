@@ -1,6 +1,5 @@
-[![Status](https://travis-ci.org/rstacruz/REPO.svg?branch=master&style=flat&logo=travis)]
-[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat&logo=npm)]
-[![Coveralls](http://img.shields.io/coveralls/rstacruz/REPO.svg?style=flat)]
+[![Build Status](https://travis-ci.org/Overkloker/chameleon.svg?branch=master)](https://travis-ci.org/Overkloker/chameleon)
+[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
