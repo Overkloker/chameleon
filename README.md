@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/Overkloker/chameleon.svg?branch=master)](https://travis-ci.org/Overkloker/chameleon)
 [![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)]()
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
